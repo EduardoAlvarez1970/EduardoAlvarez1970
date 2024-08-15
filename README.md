@@ -1,5 +1,5 @@
 # About me
 
 
-Hi, I'm Eduardo a Fronrend Developer.
+Hi, I'm Eduardo a Frontend Developer.
 
