@@ -17,7 +17,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
-<img src="EduardoAlvarez1970/icons/html5-brands-solid.svg" alt="html" width="40" height="40"/>
+<img src="html5-brands-solid.svg" alt="html" width="40" height="40"/>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 
