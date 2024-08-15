@@ -1,7 +1,6 @@
 
 
-<script src="https://kit.fontawesome.com/31149d48b0.js" crossorigin="anonymous"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 
 
 <h1 align="center">Hi 👋, I'm Eduardo.</h1>
