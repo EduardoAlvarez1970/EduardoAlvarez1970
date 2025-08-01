@@ -1,8 +1,3 @@
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Eduardo Alvarez.</h1>
 <h3 align="center">Junior Web Developer (Full-Stack) | React · Node.js · MongoDB</h3>
 <h4 align="center">Remote / Hybrid in Buenos Aires</h4>
