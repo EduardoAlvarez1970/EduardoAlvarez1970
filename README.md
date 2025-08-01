@@ -9,6 +9,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/eduardo-antonio-alvarez-/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/eduardo-antonio-alvarez-/" /></a>
+<a href="mailto:edualvarez970@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=4F4F4E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
