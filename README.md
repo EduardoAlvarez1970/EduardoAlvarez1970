@@ -7,7 +7,7 @@
 <h3 align="left">About me:</h3>
 <p align="left">🎓 React Developer. Programa ENTRA 21 - Blusoft/SENAI (Feb 2024).</p>
 <p align="left">🔭 Eagerly looking for my first role as a Junior Web Developer.</p>
-<p align="left">🛠️ Building portfolio projects with React, Node.js & MongoDB.</p><br>
+<p align="left">🛠️ Building portfolio projects with React, Node.js & MongoDB.</p>
 
 
 <h3 align="left">Connect with me:</h3>
