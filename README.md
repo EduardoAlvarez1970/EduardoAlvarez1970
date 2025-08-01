@@ -1,13 +1,10 @@
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm Eduardo Alvarez.</h1>
 <h3 align="center">Junior Web Developer (Full-Stack) | React · Node.js · MongoDB</h3>
-<h4 align="center">Remote / Hybrid in Buenos Aires</h4>
+<h4 align="center">Remote / Hybrid in Buenos Aires.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoalvarez1970&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalvarez1970" /> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
