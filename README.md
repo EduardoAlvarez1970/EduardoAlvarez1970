@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoalvarez1970&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalvarez1970" /> </p>
 
+<h3 align="left">About me:</h3>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/eduardo-antonio-alvarez-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eduardo-antonio-alvarez-/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eduardo-antonio-alvarez-/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/eduardo-antonio-alvarez-/" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
