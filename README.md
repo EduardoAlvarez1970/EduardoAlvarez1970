@@ -6,6 +6,7 @@
 
 <h3 align="left">About me:</h3>
 <p align="left">🎓 Desenvolvedor React. Programa ENTRA 21 - Blusoft/SENAI (Feb 2024).</p><br>
+<p align="left">🔭 Eagerly looking for my first role as a Junior Web Developer.</p><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
