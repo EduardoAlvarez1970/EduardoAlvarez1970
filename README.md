@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoalvarez1970&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalvarez1970" /> </p>
 
 <h3 align="left">About me:</h3>
-<p>🎓 Desenvolvedor React. Programa ENTRA 21 - Blusoft/SENAI (Feb 2024).<br>
+<p align="left">🎓 Desenvolvedor React. Programa ENTRA 21 - Blusoft/SENAI (Feb 2024).</p><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
