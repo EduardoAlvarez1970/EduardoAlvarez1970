@@ -29,15 +29,4 @@
 
 </p>
 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=eduardoalvarez1970&show_icons=true&locale=en&layout=compact&cache_seconds=1800"
-       alt="eduardoalvarez1970" />
-</p>
-
-<p>
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=eduardoalvarez1970&show_icons=true&locale=en&cache_seconds=1800"
-       alt="eduardoalvarez1970" />
-</p>
 
