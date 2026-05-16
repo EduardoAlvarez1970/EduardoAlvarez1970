@@ -1,14 +1,18 @@
 <h1 align="center">Hi 👋, I'm Eduardo Alvarez.</h1>
-<h3 align="center">Junior Web Developer (Full-Stack) | React · Node.js · MongoDB</h3>
-<h4 align="center">Remote / Hybrid in Buenos Aires(Argentina) and/or Florianopolis(Brazil).</h4></br>
+<h3 align="center">Frontend Web Developer focused on modern, responsive, and interactive web experiences using React, JavaScript, Node.js, and MongoDB.</h3>
+<h4 align="center">Based in Florianopolis (Brazil) · Open to Remote & Hybrid Opportunities .</h4></br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduardoalvarez1970&label=Profile%20views&color=0e75b6&style=flat" alt="eduardoalvarez1970" /> </p>
 
 <h3 align="left">About me:</h3>
-<p align="left">🎓 React Developer. Programa ENTRA 21 - Blusoft/SENAI (Feb 2024).</p>
-<p align="left">🔭 Eagerly looking for my first role as a Junior Web Developer.</p>
-<p align="left">🛠️ Building portfolio projects with React, Node.js & MongoDB.</p>
 
+<p align="left">💻 Frontend Web Developer focused on building modern and responsive web experiences.</p>
+
+<p align="left">⚛️ Working with React, JavaScript, Node.js and MongoDB while continuously expanding my skills.</p>
+
+<p align="left">🚀 Currently building portfolio and real-world projects focused on UI, interactivity and user experience.</p>
+
+<p align="left">🎵 Also exploring sound design and music production as part of my creative journey.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
